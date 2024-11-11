@@ -9,12 +9,14 @@ Siga as instruções abaixo para realização da prova.
 > 2. Após finalizado seu projeto, realize o push em um repositório remoto com link público para que possamos visualizar sua solução.
 > 3. Enviar a solução para o email informado durante sua entrevista.
 
+Imagine que um desenvolvedor iniciante iniciou as implementações e você foi colocado no lugar dele para fazer os ajustes e terminar as implementações dos requisitos.
+Não há pegadinhas no código, mas há ajustes que poderão e até deverão ser feitos para tornar o código mais compatível com um ambiente profissional.
+Então além de terminar a implementação, será necessário que altere o código já implementado.
+
 ## Requisitos
 
 O objetivo desde projeto é, além fazer o microserviço rodar sem problemas, conter o cadastro de alunos com as operações numeradas abaixo. 
-Imagine que um desenvolvedor iniciante iniciou as implementações e você foi colocado no lugar dele para fazer os ajustes e terminar as implementações dos requisitos. 
-Não há pegadinhas no código, mas há ajustes que poderão e até deverão ser feitos para tornar o código mais compatível com um ambiente profissional.
-Então além de terminar a implementação, será necessário que altere o código já implementado.
+
 
 > a. cadastrar novo aluno (CPF embora possa ser enviado com pontuação, você deve tratar para salvar somente os números no banco de dados, além disso não permitir duplicação de CPF; todos os campos são obrigatórios)
 
