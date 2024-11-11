@@ -41,7 +41,9 @@ O projeto já encontra-se configurado com todas as dependências (libs) necessá
 
 ## Banco de dados
 
-A aplicação já possui uma configuração de data source para um banco de dados em memória, ou seja, não é necessário configurar conexão de bancos. Entretanto, caso deseje, dentro do tempo estipulado para entrega da prova, utilizar algum outro banco de dados relacional, como PostgreSQL, MySQL, Oracle, etc, você pode fazê-lo, desde que utilize uma stack do docker compose com os parâmetros para subir o banco e conectar a aplicação - isso é totalmente opcional, porém qualquer recurso a mais será considerado como habilidades extras.
+A aplicação já possui uma configuração de data source para um banco de dados em memória, ou seja, não é necessário configurar conexão de bancos. 
+As configurações de conexão com o banco em memória H2 Database estão no arquivo application.yml, e, ao subir a aplicação, você poderá acessá-lo no path: "/h2-console".
+Entretanto, caso deseje, dentro do tempo estipulado para entrega da prova, utilizar algum outro banco de dados relacional, como PostgreSQL, MySQL, Oracle, etc, você pode fazê-lo, desde que utilize uma stack do docker compose com os parâmetros para subir o banco e conectar a aplicação - isso é totalmente opcional, porém qualquer recurso a mais será considerado como habilidades extras.
 
 ## Persistência
 
