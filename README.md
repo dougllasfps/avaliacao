@@ -62,7 +62,9 @@ Serão considerados quaisquer recursos extras que utilize na aplicação: securi
 Dentro do projeto, existe uma pasta "sql" com 1 único arquivo chamado "consultas.sql". 
 Dentro dele há algumas consultas SQL que precisam ser implementadas, implemente cada uma abaixo de seu respectivo enuciado.
 
-#### Observação: Não importa se não conseguir fazer tudo ou fazer a aplicação funcionar, mas tudo o que for implementado será considerado na sua avaliação. Não utilizar Inteligência Artificial para burlar as implementações, nós saberemos se utilizar.
+## Observações
+
+Não importa se não conseguir fazer tudo ou fazer a aplicação funcionar, mas tudo o que for implementado será considerado na sua avaliação. Não utilizar Inteligência Artificial para burlar as implementações, nós saberemos se utilizar.
 
 ### Tenha uma excelente prova e boa sorte!
 
