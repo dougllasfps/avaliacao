@@ -11,7 +11,7 @@ Siga as instruções abaixo para realização da prova.
 
 ## Requisitos
 
-O objetivo desde projeto é fazer o microserviço rodar sem problemas, ele deve conter o cadastro de alunos com as seguintes operações:
+O objetivo desde projeto é, além fazer o microserviço rodar sem problemas, conter o cadastro de alunos com as operações numeradas abaixo. Imagine que um desenvolvedor iniciante iniciou as implementações e você foi colocado no lugar dele para fazer os ajustes e terminar as implementações dos requisitos.
 
 > a. cadastrar novo aluno (CPF embora possa ser enviado com pontuação, você deve tratar para salvar somente os números no banco de dados, além disso não permitir duplicação de CPF; todos os campos são obrigatórios)
 
