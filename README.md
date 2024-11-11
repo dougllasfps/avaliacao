@@ -25,6 +25,11 @@ O objetivo desde projeto é, além fazer o microserviço rodar sem problemas, co
 
 > f. ativar ou inativar aluno cadastrado
 
+
+## Padrões de projeto
+
+Será avalidado como utiliza padrões de projetos como DTO's, camada de serviço, injeção de dependências, validators, etc.
+
 ## Configurações
 
 O projeto já encontra-se configurado com todas as dependências (libs) necessárias para realizar a prova, caso precise pode adicionar novas libs, porém saliento que todas as necessárias já estão lá.
@@ -43,7 +48,7 @@ Você deve fazer a API funcionar e realizar todas as operações, no fim de cada
 
 ## Habilidades Extras
 
-Serão considerados quaisquer recursos extras que utilize na aplicação: testes unitários, serviços externos, deploy via Dockerfile, etc.
+Serão considerados quaisquer recursos extras que utilize na aplicação: security, testes unitários, serviços externos, deploy via Dockerfile, etc.
 
 ## SQL
 
