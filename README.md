@@ -2,7 +2,7 @@
 
 Esta é uma avaliação para desenvolvedores.  Siga as instruções abaixo para realização da prova.
 
-> 1. Clone o projeto, configure seu ambiente rodar nas versões indicadas no pom.
+> 1. Clone o projeto, configure seu ambiente para rodar nas versões indicadas no pom.
 > 2. Após finalizado seu projeto, realize o push em um repositório remoto com link público para que possamos visualizar sua solução.
 > 3. Enviar a solução para o email informado durante sua entrevista.
 
@@ -10,7 +10,7 @@ Esta é uma avaliação para desenvolvedores.  Siga as instruções abaixo para 
 
 O objetivo desde projeto é fazer o microserviço rodar sem problemas, ele deve conter o cadastro de alunos com as seguintes operações:
 
-> a. cadastrar novo aluno (não permitir duplicação de CPF; todos os campos são obrigatórios)
+> a. cadastrar novo aluno (CPF embora possa ser enviado com pontuação, você deve tratar para salvar somente os números no banco de dados, além disso não permitir duplicação de CPF; todos os campos são obrigatórios)
 
 > b. buscar aluno por id
 
@@ -42,6 +42,12 @@ Você deve fazer a API funcionar e realizar todas as operações, no fim de cada
 
 Serão considerados quaisquer recursos extras que utilize na aplicação: testes unitários, serviços externos, deploy via Dockerfile, etc.
 
+## SQL
+
+Dentro do projeto, existe uma pasta "sql" com 1 único arquivo chamado "consultas.sql". 
+Dentro dele há algumas consultas SQL que precisam ser implementadas, implemente cada uma abaixo de seu respectivo enuciado.
+
+### Observação: Não importa se não conseguir fazer tudo ou fazer a aplicação funcionar, mas tudo o que for implementado será considerado na sua avaliação.
 
 ### Tenha uma excelente prova e boa sorte!
 
