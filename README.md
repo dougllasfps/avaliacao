@@ -51,7 +51,7 @@ Você deverá utilizar o JPA para realizar as operações de persistencia da ent
 
 ## API
 
-Você deve fazer a API funcionar e realizar todas as operações, no fim de cada operação os dados deverão estar persistidos no banco ou estarem sendo mostrado nas buscas. Já existe uma estrutura de classes (Domain, Repositorio e Controller) criada já com algum código programado, seu objetivo é, além de fazer tudo funcionar conforme solicitado, fazer os ajustes necessários para ter uma boa API. Refatore sempre que julgar necessário, não tenha medo de alterar tudo se necessário, queremos ver como modela e desenvolve suas API's.
+Você deve fazer a API funcionar e realizar todas as operações, no fim de cada operação os dados deverão estar persistidos no banco ou estarem sendo mostrado nas buscas. Já existe uma estrutura de classes (Domain, Repositorio e Controller) criada já com algum código programado, seu objetivo é, além de fazer tudo funcionar conforme solicitado, fazer os ajustes necessários para ter uma boa API. Refatore sempre que julgar necessário, queremos ver como modela e desenvolve seu código e suas API's.
 
 ## Habilidades Extras
 
