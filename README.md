@@ -19,17 +19,11 @@ O objetivo desde projeto é, além fazer o microserviço rodar sem problemas, co
 
 
 > a. cadastrar novo aluno (CPF embora possa ser enviado com pontuação, você deve tratar para salvar somente os números no banco de dados, além disso não permitir duplicação de CPF; todos os campos são obrigatórios)
-
 > b. buscar aluno por id
-
 > c. deletar aluno
-
 > d. atualizar dados do aluno
-
 > e. pesquisar alunos por nome e/ou cpf (o usuário poderá passar os 2, ou somente um dos 2 parametros)
-
 > f. ativar ou inativar aluno cadastrado
-
 
 ## Padrões de projeto
 
