@@ -1,6 +1,9 @@
 # Bem vindo!
 
-Esta é uma avaliação para desenvolvedores.  Siga as instruções abaixo para realização da prova.
+Esta é uma avaliação para desenvolvedores.
+Antes de mais nada é necessário ler todo o arquivo, até o fim.
+
+Siga as instruções abaixo para realização da prova.
 
 > 1. Clone o projeto, configure seu ambiente para rodar nas versões indicadas no pom.
 > 2. Após finalizado seu projeto, realize o push em um repositório remoto com link público para que possamos visualizar sua solução.
