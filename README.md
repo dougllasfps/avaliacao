@@ -11,7 +11,7 @@ Siga as instruções abaixo para realização da prova.
 
 Imagine que um desenvolvedor iniciante iniciou as implementações e você foi colocado no lugar dele para fazer os ajustes e terminar as implementações dos requisitos.
 Não há pegadinhas no código, mas há ajustes que poderão e até deverão ser feitos para tornar o código mais compatível com um ambiente profissional.
-Então além de terminar a implementação, será necessário que altere o código já implementado.
+Então além de terminar a implementação, será necessário que altere o código já implementado onde julgar necessário.
 
 ## Requisitos
 
