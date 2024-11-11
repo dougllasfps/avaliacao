@@ -55,7 +55,7 @@ Você deve fazer a API funcionar e realizar todas as operações, no fim de cada
 
 ## Habilidades Extras
 
-Serão considerados quaisquer recursos extras que utilize na aplicação: security, testes unitários, serviços externos, deploy via Dockerfile, etc.
+Serão considerados quaisquer recursos extras que utilize na aplicação: security, testes unitários, swagger, deploy via Dockerfile, etc.
 
 ## SQL
 
